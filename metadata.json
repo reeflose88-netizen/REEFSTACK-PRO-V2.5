@@ -1,0 +1,6 @@
+{
+  "name": "ReefStack Pro+ Dashboard",
+  "description": "The interactive blueprint and architectural sandbox for ReefStack Pro+: the ultimate full-stack app and game construction ecosystem with custom architectural advice, code generation, and step-by-step guides. Powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
